@@ -15,5 +15,9 @@
   },
   "dependencies": {
     "three": "^0.141.0"
+  },
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7"
   }
 }
